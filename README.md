@@ -22,3 +22,4 @@ Há um enorme viés para a minha área (dados de casos de doenças infecciosas)
 * [Livro] R for Data Science, Hadley Wickham et al. [https://r4ds.hadley.nz/] (Versão em português disponível)
 * [Livro] Spatial Statistics for Data Science: Theory and Practice with R, Paula Moraga [https://www.paulamoraga.com/book-spatial/]
 * [Livro] ggplot2: Elegant Graphics for Data Analysis (3e), Hadley Wickham et al. [https://ggplot2-book.org/]
+* [Livro] R Packages (2e), Hadley Wickham & Jennifer Bryan [https://r-pkgs.org/]
